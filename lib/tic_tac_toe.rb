@@ -101,5 +101,5 @@ def play
     puts "Cat's Game!"
   end
 end
-play
+
 end
